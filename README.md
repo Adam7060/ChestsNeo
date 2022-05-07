@@ -4,7 +4,7 @@ This is basic demo to demonstrate how to load assets, interact with game objects
 
 # 1. Preparing to run
 
-Unzip the project then go to the root folder and run this command:
+Clone the project then go to the root folder and run this command:
 
     http-server
 
